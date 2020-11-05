@@ -52,7 +52,7 @@ export default class App extends Component {
 			return {
 				todoData: newArray
 			}
-		}) 
+		})  
 	}
 	
 	toggleProperty(arr, id, propName) {
